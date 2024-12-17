@@ -1,0 +1,8 @@
+# Ignore the Anaconda installer
+Anaconda3-2022.05-Linux-x86.sh
+
+# Ignore Jupyter Notebook checkpoints folder
+.ipynb_checkpoints/
+docker-compose
+docker-compose-linux-x86_64
+
