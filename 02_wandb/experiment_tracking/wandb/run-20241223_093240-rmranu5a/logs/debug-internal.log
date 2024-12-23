@@ -1,0 +1,20 @@
+{"time":"2024-12-23T09:32:40.152190277Z","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-23T09:32:40.15221422Z","level":"INFO","msg":"created symlink","path":"/workspaces/ML_Analysis/02/experiment_tracking/wandb/run-20241223_093240-rmranu5a/logs/debug-core.log"}
+{"time":"2024-12-23T09:32:40.256220298Z","level":"INFO","msg":"created new stream","id":"rmranu5a"}
+{"time":"2024-12-23T09:32:40.256261938Z","level":"INFO","msg":"stream: started","id":"rmranu5a"}
+{"time":"2024-12-23T09:32:40.256322132Z","level":"INFO","msg":"handler: started","stream_id":"rmranu5a"}
+{"time":"2024-12-23T09:32:40.256357712Z","level":"INFO","msg":"writer: Do: started","stream_id":"rmranu5a"}
+{"time":"2024-12-23T09:32:40.256605375Z","level":"INFO","msg":"sender: started","stream_id":"rmranu5a"}
+{"time":"2024-12-23T09:32:40.438909729Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-23T09:32:40.657361617Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-23T09:37:13.367242372Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-23T09:37:14.280893632Z","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2024-12-23T09:37:14.498836363Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-23T09:37:14.499410013Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-23T09:37:15.062558337Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-23T09:37:15.241336249Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-12-23T09:37:16.254095573Z","level":"INFO","msg":"stream: closing","id":"rmranu5a"}
+{"time":"2024-12-23T09:37:16.254122767Z","level":"INFO","msg":"handler: closed","stream_id":"rmranu5a"}
+{"time":"2024-12-23T09:37:16.254134299Z","level":"INFO","msg":"writer: Close: closed","stream_id":"rmranu5a"}
+{"time":"2024-12-23T09:37:16.25418894Z","level":"INFO","msg":"sender: closed","stream_id":"rmranu5a"}
+{"time":"2024-12-23T09:37:16.254196467Z","level":"INFO","msg":"stream: closed","id":"rmranu5a"}

@@ -1,0 +1,19 @@
+{"time":"2024-12-18T14:27:52.117263147Z","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-18T14:27:52.117289142Z","level":"INFO","msg":"created symlink","path":"/workspaces/ML_Analysis/02/experiment_tracking/wandb/run-20241218_142752-874s5in3/logs/debug-core.log"}
+{"time":"2024-12-18T14:27:52.221628954Z","level":"INFO","msg":"created new stream","id":"874s5in3"}
+{"time":"2024-12-18T14:27:52.221669705Z","level":"INFO","msg":"stream: started","id":"874s5in3"}
+{"time":"2024-12-18T14:27:52.221690685Z","level":"INFO","msg":"writer: Do: started","stream_id":"874s5in3"}
+{"time":"2024-12-18T14:27:52.221980678Z","level":"INFO","msg":"handler: started","stream_id":"874s5in3"}
+{"time":"2024-12-18T14:27:52.222177613Z","level":"INFO","msg":"sender: started","stream_id":"874s5in3"}
+{"time":"2024-12-18T14:27:52.610077653Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-18T14:27:53.05194647Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-18T14:28:43.335854955Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-18T14:28:43.518347791Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-18T14:28:43.519643577Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-18T14:28:44.520781425Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact Titanic","runtime_seconds":1.005036496}],"total_operations":1}}
+{"time":"2024-12-18T14:28:44.577343512Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-18T14:28:45.737366221Z","level":"INFO","msg":"stream: closing","id":"874s5in3"}
+{"time":"2024-12-18T14:28:45.737392867Z","level":"INFO","msg":"handler: closed","stream_id":"874s5in3"}
+{"time":"2024-12-18T14:28:45.737403668Z","level":"INFO","msg":"writer: Close: closed","stream_id":"874s5in3"}
+{"time":"2024-12-18T14:28:45.737465838Z","level":"INFO","msg":"sender: closed","stream_id":"874s5in3"}
+{"time":"2024-12-18T14:28:45.737475268Z","level":"INFO","msg":"stream: closed","id":"874s5in3"}

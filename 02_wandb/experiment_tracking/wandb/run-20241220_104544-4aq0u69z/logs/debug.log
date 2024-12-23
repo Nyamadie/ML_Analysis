@@ -1,0 +1,56 @@
+2024-12-20 10:45:44,374 INFO    MainThread:9027 [wandb_setup.py:_flush():68] Current SDK version is 0.19.1
+2024-12-20 10:45:44,375 INFO    MainThread:9027 [wandb_setup.py:_flush():68] Configure stats pid to 9027
+2024-12-20 10:45:44,375 INFO    MainThread:9027 [wandb_setup.py:_flush():68] Loading settings from /home/codespace/.config/wandb/settings
+2024-12-20 10:45:44,375 INFO    MainThread:9027 [wandb_setup.py:_flush():68] Loading settings from /workspaces/ML_Analysis/02/experiment_tracking/wandb/settings
+2024-12-20 10:45:44,376 INFO    MainThread:9027 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2024-12-20 10:45:44,376 INFO    MainThread:9027 [wandb_init.py:_log_setup():528] Logging user logs to /workspaces/ML_Analysis/02/experiment_tracking/wandb/run-20241220_104544-4aq0u69z/logs/debug.log
+2024-12-20 10:45:44,376 INFO    MainThread:9027 [wandb_init.py:_log_setup():529] Logging internal logs to /workspaces/ML_Analysis/02/experiment_tracking/wandb/run-20241220_104544-4aq0u69z/logs/debug-internal.log
+2024-12-20 10:45:44,376 INFO    MainThread:9027 [wandb_init.py:_jupyter_setup():474] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x78b3ab3824c0>
+2024-12-20 10:45:44,377 INFO    MainThread:9027 [wandb_init.py:init():644] calling init triggers
+2024-12-20 10:45:44,377 INFO    MainThread:9027 [wandb_init.py:init():650] wandb.init called with sweep_config: {}
+config: {}
+2024-12-20 10:45:44,377 INFO    MainThread:9027 [wandb_init.py:init():680] starting backend
+2024-12-20 10:45:44,378 INFO    MainThread:9027 [wandb_init.py:init():684] sending inform_init request
+2024-12-20 10:45:44,382 INFO    MainThread:9027 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-12-20 10:45:44,384 INFO    MainThread:9027 [wandb_init.py:init():697] backend started and connected
+2024-12-20 10:45:44,396 INFO    MainThread:9027 [wandb_run.py:_label_probe_notebook():1222] probe notebook
+2024-12-20 10:45:44,397 INFO    MainThread:9027 [wandb_run.py:_label_probe_notebook():1232] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-12-20 10:45:44,397 INFO    MainThread:9027 [wandb_init.py:init():790] updated telemetry
+2024-12-20 10:45:44,412 INFO    MainThread:9027 [wandb_init.py:init():822] communicating run to backend with 90.0 second timeout
+2024-12-20 10:45:44,685 INFO    MainThread:9027 [wandb_init.py:init():874] starting run threads in backend
+2024-12-20 10:45:44,885 INFO    MainThread:9027 [wandb_run.py:_console_start():2374] atexit reg
+2024-12-20 10:45:44,886 INFO    MainThread:9027 [wandb_run.py:_redirect():2224] redirect: wrap_raw
+2024-12-20 10:45:44,886 INFO    MainThread:9027 [wandb_run.py:_redirect():2289] Wrapping output streams.
+2024-12-20 10:45:44,886 INFO    MainThread:9027 [wandb_run.py:_redirect():2314] Redirects installed.
+2024-12-20 10:45:44,887 INFO    MainThread:9027 [wandb_init.py:init():916] run started, returning control to user process
+2024-12-20 10:45:45,921 INFO    MainThread:9027 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2024-12-20 10:45:45,921 INFO    MainThread:9027 [wandb_init.py:_pause_backend():439] pausing backend
+2024-12-20 10:46:54,085 INFO    MainThread:9027 [wandb_init.py:_resume_backend():444] resuming backend
+2024-12-20 10:46:54,097 INFO    MainThread:9027 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2024-12-20 10:46:54,097 INFO    MainThread:9027 [wandb_init.py:_pause_backend():439] pausing backend
+2024-12-20 10:48:13,806 INFO    MainThread:9027 [wandb_init.py:_resume_backend():444] resuming backend
+2024-12-20 10:48:14,569 INFO    MainThread:9027 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2024-12-20 10:48:14,569 INFO    MainThread:9027 [wandb_init.py:_pause_backend():439] pausing backend
+2024-12-20 10:48:32,929 INFO    MainThread:9027 [wandb_init.py:_resume_backend():444] resuming backend
+2024-12-20 10:48:33,013 INFO    MainThread:9027 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2024-12-20 10:48:33,013 INFO    MainThread:9027 [wandb_init.py:_pause_backend():439] pausing backend
+2024-12-20 10:49:07,123 INFO    MainThread:9027 [wandb_init.py:_resume_backend():444] resuming backend
+2024-12-20 10:49:07,131 INFO    MainThread:9027 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2024-12-20 10:49:07,131 INFO    MainThread:9027 [wandb_init.py:_pause_backend():439] pausing backend
+2024-12-20 10:49:25,696 INFO    MainThread:9027 [wandb_init.py:_resume_backend():444] resuming backend
+2024-12-20 10:49:25,697 INFO    MainThread:9027 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2024-12-20 10:49:25,698 INFO    MainThread:9027 [wandb_init.py:_pause_backend():439] pausing backend
+2024-12-20 10:50:32,831 INFO    MainThread:9027 [wandb_init.py:_resume_backend():444] resuming backend
+2024-12-20 10:50:32,843 INFO    MainThread:9027 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2024-12-20 10:50:32,844 INFO    MainThread:9027 [wandb_init.py:_pause_backend():439] pausing backend
+2024-12-20 10:52:08,131 INFO    MainThread:9027 [wandb_init.py:_resume_backend():444] resuming backend
+2024-12-20 10:52:08,272 INFO    MainThread:9027 [wandb_run.py:_finish():2100] finishing run nyamadie1-whisper-health/First Experiment/4aq0u69z
+2024-12-20 10:52:08,272 INFO    MainThread:9027 [jupyter.py:save_history():458] not saving jupyter history
+2024-12-20 10:52:08,272 INFO    MainThread:9027 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2024-12-20 10:52:08,272 INFO    MainThread:9027 [wandb_init.py:_jupyter_teardown():456] cleaning up jupyter logic
+2024-12-20 10:52:08,272 INFO    MainThread:9027 [wandb_run.py:_atexit_cleanup():2339] got exitcode: 0
+2024-12-20 10:52:08,272 INFO    MainThread:9027 [wandb_run.py:_restore():2321] restore
+2024-12-20 10:52:08,272 INFO    MainThread:9027 [wandb_run.py:_restore():2327] restore done
+2024-12-20 10:52:11,482 INFO    MainThread:9027 [wandb_run.py:_footer_history_summary_info():3892] rendering history
+2024-12-20 10:52:11,483 INFO    MainThread:9027 [wandb_run.py:_footer_history_summary_info():3924] rendering summary
+2024-12-20 10:52:11,486 INFO    MainThread:9027 [wandb_run.py:_footer_sync_info():3853] logging synced files

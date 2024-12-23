@@ -1,0 +1,37 @@
+{"time":"2024-12-18T13:18:19.494017997Z","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-18T13:18:19.494047091Z","level":"INFO","msg":"created symlink","path":"/workspaces/ML_Analysis/02/experiment_tracking/wandb/run-20241218_131819-oejeevlv/logs/debug-core.log"}
+{"time":"2024-12-18T13:18:19.597541077Z","level":"INFO","msg":"created new stream","id":"oejeevlv"}
+{"time":"2024-12-18T13:18:19.597743478Z","level":"INFO","msg":"handler: started","stream_id":"oejeevlv"}
+{"time":"2024-12-18T13:18:19.597798503Z","level":"INFO","msg":"writer: Do: started","stream_id":"oejeevlv"}
+{"time":"2024-12-18T13:18:19.597806591Z","level":"INFO","msg":"stream: started","id":"oejeevlv"}
+{"time":"2024-12-18T13:18:19.597956531Z","level":"INFO","msg":"sender: started","stream_id":"oejeevlv"}
+{"time":"2024-12-18T13:18:19.818945979Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-18T13:18:20.045226677Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-18T13:18:20.04528962Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-18T13:18:20.045296948Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-18T13:18:20.045304839Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-18T13:18:20.045312877Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-18T13:18:20.045320095Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-18T13:18:20.045324383Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-18T13:18:20.045329603Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-18T13:18:20.06348719Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-18T13:18:20.10522098Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-18T13:18:20.105318571Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-18T13:18:20.105330682Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-18T13:18:20.691405992Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-18T13:18:20.695908183Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-18T13:18:20.854656963Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-18T13:18:20.858393185Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-18T13:18:21.024675259Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-18T13:18:21.029717208Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-18T13:18:21.184609118Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-18T13:18:21.188565238Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-18T13:18:21.19291959Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-18T13:18:21.193514434Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-18T13:18:22.195418006Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-oejeevlv-confusion_matrix","runtime_seconds":1.177242156},{"desc":"uploading artifact iris-logistic-regression-model","runtime_seconds":1.014226429,"subtasks":[{"desc":"logistic_regression.pkl","runtime_seconds":0.387811804,"progress":"829B/829B"}]}],"total_operations":2}}
+{"time":"2024-12-18T13:18:23.015035327Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-18T13:18:24.194244711Z","level":"INFO","msg":"stream: closing","id":"oejeevlv"}
+{"time":"2024-12-18T13:18:24.194390409Z","level":"INFO","msg":"handler: closed","stream_id":"oejeevlv"}
+{"time":"2024-12-18T13:18:24.194511296Z","level":"INFO","msg":"writer: Close: closed","stream_id":"oejeevlv"}
+{"time":"2024-12-18T13:18:24.19468874Z","level":"INFO","msg":"sender: closed","stream_id":"oejeevlv"}
+{"time":"2024-12-18T13:18:24.194924635Z","level":"INFO","msg":"stream: closed","id":"oejeevlv"}

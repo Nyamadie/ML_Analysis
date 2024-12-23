@@ -1,0 +1,20 @@
+{"time":"2024-12-23T09:40:23.029780235Z","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-23T09:40:23.029808852Z","level":"INFO","msg":"created symlink","path":"/workspaces/ML_Analysis/02/experiment_tracking/wandb/run-20241223_094023-q5ek0mg4/logs/debug-core.log"}
+{"time":"2024-12-23T09:40:23.132751967Z","level":"INFO","msg":"created new stream","id":"q5ek0mg4"}
+{"time":"2024-12-23T09:40:23.132787673Z","level":"INFO","msg":"stream: started","id":"q5ek0mg4"}
+{"time":"2024-12-23T09:40:23.132813265Z","level":"INFO","msg":"writer: Do: started","stream_id":"q5ek0mg4"}
+{"time":"2024-12-23T09:40:23.13292632Z","level":"INFO","msg":"handler: started","stream_id":"q5ek0mg4"}
+{"time":"2024-12-23T09:40:23.132958727Z","level":"INFO","msg":"sender: started","stream_id":"q5ek0mg4"}
+{"time":"2024-12-23T09:40:23.30839328Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-23T09:40:24.290199244Z","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2024-12-23T09:40:24.489235217Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-23T09:40:26.908359261Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-23T09:40:27.759655581Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-23T09:40:27.760147141Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-23T09:40:28.761964908Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-q5ek0mg4-TestTable","runtime_seconds":1.024541931}],"total_operations":1}}
+{"time":"2024-12-23T09:40:29.372642203Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-23T09:40:30.540837858Z","level":"INFO","msg":"stream: closing","id":"q5ek0mg4"}
+{"time":"2024-12-23T09:40:30.540858235Z","level":"INFO","msg":"handler: closed","stream_id":"q5ek0mg4"}
+{"time":"2024-12-23T09:40:30.540875353Z","level":"INFO","msg":"writer: Close: closed","stream_id":"q5ek0mg4"}
+{"time":"2024-12-23T09:40:30.540928577Z","level":"INFO","msg":"sender: closed","stream_id":"q5ek0mg4"}
+{"time":"2024-12-23T09:40:30.540936082Z","level":"INFO","msg":"stream: closed","id":"q5ek0mg4"}

@@ -1,0 +1,6 @@
+Requirement already satisfied: scikit-learn in /home/codespace/anaconda3/lib/python3.9/site-packages (1.0.2)
+Requirement already satisfied: scipy>=1.1.0 in /home/codespace/anaconda3/lib/python3.9/site-packages (from scikit-learn) (1.7.3)
+Requirement already satisfied: joblib>=0.11 in /home/codespace/anaconda3/lib/python3.9/site-packages (from scikit-learn) (1.1.0)
+Requirement already satisfied: numpy>=1.14.6 in /home/codespace/anaconda3/lib/python3.9/site-packages (from scikit-learn) (1.21.5)
+Requirement already satisfied: threadpoolctl>=2.0.0 in /home/codespace/anaconda3/lib/python3.9/site-packages (from scikit-learn) (2.2.0)
+[34m[1mwandb[0m: Adding directory to artifact (./data)... Done. 0.0s

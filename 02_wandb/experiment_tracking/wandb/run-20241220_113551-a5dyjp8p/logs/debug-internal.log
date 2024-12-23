@@ -1,0 +1,11 @@
+{"time":"2024-12-20T11:35:51.481134282Z","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-20T11:35:51.48116685Z","level":"INFO","msg":"created symlink","path":"/workspaces/ML_Analysis/02/experiment_tracking/wandb/run-20241220_113551-a5dyjp8p/logs/debug-core.log"}
+{"time":"2024-12-20T11:35:51.585947951Z","level":"INFO","msg":"created new stream","id":"a5dyjp8p"}
+{"time":"2024-12-20T11:35:51.586007639Z","level":"INFO","msg":"stream: started","id":"a5dyjp8p"}
+{"time":"2024-12-20T11:35:51.586054856Z","level":"INFO","msg":"handler: started","stream_id":"a5dyjp8p"}
+{"time":"2024-12-20T11:35:51.586087375Z","level":"INFO","msg":"writer: Do: started","stream_id":"a5dyjp8p"}
+{"time":"2024-12-20T11:35:51.586190785Z","level":"INFO","msg":"sender: started","stream_id":"a5dyjp8p"}
+{"time":"2024-12-20T11:35:51.765632394Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-20T11:35:52.006527976Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T11:35:52.570128109Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T11:35:52.610473856Z","level":"INFO","msg":"Pausing system monitor"}

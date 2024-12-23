@@ -1,0 +1,28 @@
+{"time":"2024-12-23T10:09:36.463095257Z","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-23T10:09:36.463133909Z","level":"INFO","msg":"created symlink","path":"/workspaces/ML_Analysis/02/experiment_tracking/wandb/run-20241223_100936-mazdbra6/logs/debug-core.log"}
+{"time":"2024-12-23T10:09:36.56615897Z","level":"INFO","msg":"created new stream","id":"mazdbra6"}
+{"time":"2024-12-23T10:09:36.56619381Z","level":"INFO","msg":"stream: started","id":"mazdbra6"}
+{"time":"2024-12-23T10:09:36.566201614Z","level":"INFO","msg":"writer: Do: started","stream_id":"mazdbra6"}
+{"time":"2024-12-23T10:09:36.566288056Z","level":"INFO","msg":"handler: started","stream_id":"mazdbra6"}
+{"time":"2024-12-23T10:09:36.566302038Z","level":"INFO","msg":"sender: started","stream_id":"mazdbra6"}
+{"time":"2024-12-23T10:09:36.747776795Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-23T10:09:37.78210256Z","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2024-12-23T10:09:37.985608044Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-23T10:09:37.991990704Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-23T10:09:37.99898927Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-23T10:09:40.531582375Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-23T10:09:40.654038869Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-23T10:09:43.377766278Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-23T10:09:43.385392684Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-23T10:09:44.988699382Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-23T10:09:45.72626612Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-23T10:09:47.670272841Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-23T10:09:47.826600316Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-23T10:09:47.827214212Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-23T10:09:48.830796454Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact titanic-random-forest-model","runtime_seconds":1.009290684,"subtasks":[{"desc":"random_forest_classifier.pkl","runtime_seconds":0.406147146,"progress":"670.3KB/670.3KB"}]}],"total_operations":1}}
+{"time":"2024-12-23T10:09:49.951175336Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-23T10:09:51.141007255Z","level":"INFO","msg":"stream: closing","id":"mazdbra6"}
+{"time":"2024-12-23T10:09:51.141027814Z","level":"INFO","msg":"handler: closed","stream_id":"mazdbra6"}
+{"time":"2024-12-23T10:09:51.141037808Z","level":"INFO","msg":"writer: Close: closed","stream_id":"mazdbra6"}
+{"time":"2024-12-23T10:09:51.141238259Z","level":"INFO","msg":"sender: closed","stream_id":"mazdbra6"}
+{"time":"2024-12-23T10:09:51.141253818Z","level":"INFO","msg":"stream: closed","id":"mazdbra6"}

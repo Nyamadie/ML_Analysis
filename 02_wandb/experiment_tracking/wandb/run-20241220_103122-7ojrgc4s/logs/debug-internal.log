@@ -1,0 +1,17 @@
+{"time":"2024-12-20T10:31:22.716176721Z","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-20T10:31:22.716318083Z","level":"INFO","msg":"created symlink","path":"/workspaces/ML_Analysis/02/experiment_tracking/wandb/run-20241220_103122-7ojrgc4s/logs/debug-core.log"}
+{"time":"2024-12-20T10:31:22.827134371Z","level":"INFO","msg":"created new stream","id":"7ojrgc4s"}
+{"time":"2024-12-20T10:31:22.827174329Z","level":"INFO","msg":"stream: started","id":"7ojrgc4s"}
+{"time":"2024-12-20T10:31:22.828903151Z","level":"INFO","msg":"writer: Do: started","stream_id":"7ojrgc4s"}
+{"time":"2024-12-20T10:31:22.829299146Z","level":"INFO","msg":"handler: started","stream_id":"7ojrgc4s"}
+{"time":"2024-12-20T10:31:22.82945882Z","level":"INFO","msg":"sender: started","stream_id":"7ojrgc4s"}
+{"time":"2024-12-20T10:31:23.115930682Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-20T10:31:23.514265624Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-20T10:31:23.514981708Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-20T10:31:24.516435248Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact Titanic","runtime_seconds":0.914560089,"subtasks":[{"desc":"test.csv","runtime_seconds":0.103061584,"progress":"28.0KB/28.0KB"},{"desc":"train.csv","runtime_seconds":0.103041738,"progress":"59.8KB/59.8KB"}]}],"total_operations":1}}
+{"time":"2024-12-20T10:31:26.083637333Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-20T10:31:27.279196533Z","level":"INFO","msg":"stream: closing","id":"7ojrgc4s"}
+{"time":"2024-12-20T10:31:27.279227388Z","level":"INFO","msg":"handler: closed","stream_id":"7ojrgc4s"}
+{"time":"2024-12-20T10:31:27.279239863Z","level":"INFO","msg":"writer: Close: closed","stream_id":"7ojrgc4s"}
+{"time":"2024-12-20T10:31:27.27930092Z","level":"INFO","msg":"sender: closed","stream_id":"7ojrgc4s"}
+{"time":"2024-12-20T10:31:27.27931563Z","level":"INFO","msg":"stream: closed","id":"7ojrgc4s"}

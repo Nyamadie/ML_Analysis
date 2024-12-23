@@ -1,0 +1,26 @@
+{"time":"2024-12-20T10:59:11.878916568Z","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-20T10:59:11.879173653Z","level":"INFO","msg":"created symlink","path":"/workspaces/ML_Analysis/02/experiment_tracking/wandb/run-20241220_105911-45tsk8th/logs/debug-core.log"}
+{"time":"2024-12-20T10:59:11.98443021Z","level":"INFO","msg":"created new stream","id":"45tsk8th"}
+{"time":"2024-12-20T10:59:11.984471871Z","level":"INFO","msg":"stream: started","id":"45tsk8th"}
+{"time":"2024-12-20T10:59:11.984489436Z","level":"INFO","msg":"writer: Do: started","stream_id":"45tsk8th"}
+{"time":"2024-12-20T10:59:11.98451775Z","level":"INFO","msg":"sender: started","stream_id":"45tsk8th"}
+{"time":"2024-12-20T10:59:11.984542041Z","level":"INFO","msg":"handler: started","stream_id":"45tsk8th"}
+{"time":"2024-12-20T10:59:12.19068819Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-20T10:59:13.198242096Z","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2024-12-20T10:59:13.362662478Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T10:59:13.366497409Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T10:59:13.376963615Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T10:59:13.597584025Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T10:59:13.601217719Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T10:59:15.572164651Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T10:59:15.580224181Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T10:59:16.4168808Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T10:59:16.565584348Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-20T10:59:16.566636803Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-20T10:59:17.109614192Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-20T10:59:17.272637838Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-12-20T10:59:18.282092816Z","level":"INFO","msg":"stream: closing","id":"45tsk8th"}
+{"time":"2024-12-20T10:59:18.28212359Z","level":"INFO","msg":"handler: closed","stream_id":"45tsk8th"}
+{"time":"2024-12-20T10:59:18.282136516Z","level":"INFO","msg":"writer: Close: closed","stream_id":"45tsk8th"}
+{"time":"2024-12-20T10:59:18.282190256Z","level":"INFO","msg":"sender: closed","stream_id":"45tsk8th"}
+{"time":"2024-12-20T10:59:18.282204387Z","level":"INFO","msg":"stream: closed","id":"45tsk8th"}

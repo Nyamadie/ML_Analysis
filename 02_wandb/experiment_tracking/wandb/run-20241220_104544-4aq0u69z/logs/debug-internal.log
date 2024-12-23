@@ -1,0 +1,32 @@
+{"time":"2024-12-20T10:45:44.380293881Z","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-20T10:45:44.380573978Z","level":"INFO","msg":"created symlink","path":"/workspaces/ML_Analysis/02/experiment_tracking/wandb/run-20241220_104544-4aq0u69z/logs/debug-core.log"}
+{"time":"2024-12-20T10:45:44.483661072Z","level":"INFO","msg":"created new stream","id":"4aq0u69z"}
+{"time":"2024-12-20T10:45:44.483699617Z","level":"INFO","msg":"stream: started","id":"4aq0u69z"}
+{"time":"2024-12-20T10:45:44.483726354Z","level":"INFO","msg":"writer: Do: started","stream_id":"4aq0u69z"}
+{"time":"2024-12-20T10:45:44.483817938Z","level":"INFO","msg":"handler: started","stream_id":"4aq0u69z"}
+{"time":"2024-12-20T10:45:44.484739717Z","level":"INFO","msg":"sender: started","stream_id":"4aq0u69z"}
+{"time":"2024-12-20T10:45:44.690405842Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-20T10:45:45.710440307Z","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2024-12-20T10:45:45.921824882Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T10:46:54.088414442Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T10:46:54.097920083Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T10:48:13.807646674Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T10:48:14.569767223Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T10:48:32.932331132Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T10:48:33.013807577Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T10:49:07.124888854Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T10:49:07.166622691Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T10:49:25.697944861Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T10:49:25.73859897Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T10:50:32.832607308Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T10:50:32.844350063Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T10:52:08.133906397Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T10:52:08.273394251Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-20T10:52:08.274085828Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-20T10:52:09.275633822Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact Titanic","runtime_seconds":1.00529205,"subtasks":[{"desc":"train.csv","runtime_seconds":0.395896551,"progress":"66.6KB/66.6KB"}]}],"total_operations":1}}
+{"time":"2024-12-20T10:52:10.325264882Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-20T10:52:11.489434069Z","level":"INFO","msg":"stream: closing","id":"4aq0u69z"}
+{"time":"2024-12-20T10:52:11.489467129Z","level":"INFO","msg":"handler: closed","stream_id":"4aq0u69z"}
+{"time":"2024-12-20T10:52:11.489478445Z","level":"INFO","msg":"writer: Close: closed","stream_id":"4aq0u69z"}
+{"time":"2024-12-20T10:52:11.489539355Z","level":"INFO","msg":"sender: closed","stream_id":"4aq0u69z"}
+{"time":"2024-12-20T10:52:11.489551909Z","level":"INFO","msg":"stream: closed","id":"4aq0u69z"}

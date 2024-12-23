@@ -1,0 +1,26 @@
+{"time":"2024-12-20T11:35:31.850824302Z","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-20T11:35:31.850847978Z","level":"INFO","msg":"created symlink","path":"/workspaces/ML_Analysis/02/experiment_tracking/wandb/run-20241220_113531-hsgs9eyw/logs/debug-core.log"}
+{"time":"2024-12-20T11:35:31.954121819Z","level":"INFO","msg":"created new stream","id":"hsgs9eyw"}
+{"time":"2024-12-20T11:35:31.954174249Z","level":"INFO","msg":"stream: started","id":"hsgs9eyw"}
+{"time":"2024-12-20T11:35:31.954199055Z","level":"INFO","msg":"writer: Do: started","stream_id":"hsgs9eyw"}
+{"time":"2024-12-20T11:35:31.954220783Z","level":"INFO","msg":"handler: started","stream_id":"hsgs9eyw"}
+{"time":"2024-12-20T11:35:31.954247937Z","level":"INFO","msg":"sender: started","stream_id":"hsgs9eyw"}
+{"time":"2024-12-20T11:35:32.169840067Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-20T11:35:33.217661847Z","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2024-12-20T11:35:33.406009819Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T11:35:33.41141591Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T11:35:33.426745093Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T11:35:34.847537595Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T11:35:34.850384813Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T11:35:36.602764001Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T11:35:36.611619568Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T11:35:39.079884439Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T11:35:39.24938601Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-20T11:35:39.250017798Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-20T11:35:39.771622685Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-20T11:35:39.932642795Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-12-20T11:35:40.943237832Z","level":"INFO","msg":"stream: closing","id":"hsgs9eyw"}
+{"time":"2024-12-20T11:35:40.943502839Z","level":"INFO","msg":"handler: closed","stream_id":"hsgs9eyw"}
+{"time":"2024-12-20T11:35:40.943740468Z","level":"INFO","msg":"writer: Close: closed","stream_id":"hsgs9eyw"}
+{"time":"2024-12-20T11:35:40.944280251Z","level":"INFO","msg":"sender: closed","stream_id":"hsgs9eyw"}
+{"time":"2024-12-20T11:35:40.944504702Z","level":"INFO","msg":"stream: closed","id":"hsgs9eyw"}

@@ -1,0 +1,29 @@
+{
+  "os":  "Linux-6.5.0-1025-azure-x86_64-with-glibc2.31",
+  "python":  "CPython 3.9.12",
+  "startedAt":  "2024-12-20T11:05:58.310479Z",
+  "program":  "experiment_tracking/Deeper_analysis.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Nyamadie/ML_Analysis",
+    "commit":  "1954676b94fb885251d03ce3335a206397567a52"
+  },
+  "email":  "nyamadie1@gmail.com",
+  "root":  "/workspaces/ML_Analysis/02/experiment_tracking",
+  "host":  "codespaces-1c9ebe",
+  "executable":  "/home/codespace/anaconda3/bin/python",
+  "cpu_count":  1,
+  "cpu_count_logical":  2,
+  "disk":  {
+    "/":  {
+      "total":  "33636024320",
+      "used":  "18177355776"
+    }
+  },
+  "memory":  {
+    "total":  "8313704448"
+  },
+  "cpu":  {
+    "count":  1,
+    "countLogical":  2
+  }
+}

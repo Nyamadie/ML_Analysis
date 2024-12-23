@@ -1,0 +1,21 @@
+{"time":"2024-12-20T11:05:58.30454873Z","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-20T11:05:58.304585452Z","level":"INFO","msg":"created symlink","path":"/workspaces/ML_Analysis/02/experiment_tracking/wandb/run-20241220_110558-ut9uo86g/logs/debug-core.log"}
+{"time":"2024-12-20T11:05:58.40782106Z","level":"INFO","msg":"created new stream","id":"ut9uo86g"}
+{"time":"2024-12-20T11:05:58.40785736Z","level":"INFO","msg":"stream: started","id":"ut9uo86g"}
+{"time":"2024-12-20T11:05:58.407882135Z","level":"INFO","msg":"writer: Do: started","stream_id":"ut9uo86g"}
+{"time":"2024-12-20T11:05:58.407971737Z","level":"INFO","msg":"handler: started","stream_id":"ut9uo86g"}
+{"time":"2024-12-20T11:05:58.408002865Z","level":"INFO","msg":"sender: started","stream_id":"ut9uo86g"}
+{"time":"2024-12-20T11:05:58.611689168Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-20T11:05:59.300628643Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T11:07:29.670154227Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T11:07:29.710479692Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T11:07:44.883194491Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-20T11:07:44.920488561Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-20T11:08:34.447656009Z","level":"INFO","msg":"stream: closing","id":"ut9uo86g"}
+{"time":"2024-12-20T11:08:34.447707801Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-20T11:08:34.449144913Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-20T11:08:34.948643512Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-20T11:08:35.103534485Z","level":"INFO","msg":"handler: closed","stream_id":"ut9uo86g"}
+{"time":"2024-12-20T11:08:35.10357703Z","level":"INFO","msg":"writer: Close: closed","stream_id":"ut9uo86g"}
+{"time":"2024-12-20T11:08:35.103638137Z","level":"INFO","msg":"sender: closed","stream_id":"ut9uo86g"}
+{"time":"2024-12-20T11:08:35.103650576Z","level":"INFO","msg":"stream: closed","id":"ut9uo86g"}

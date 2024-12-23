@@ -1,0 +1,30 @@
+{"time":"2024-12-23T10:00:44.920659759Z","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-23T10:00:44.920695535Z","level":"INFO","msg":"created symlink","path":"/workspaces/ML_Analysis/02/experiment_tracking/wandb/run-20241223_100044-vtjgf7sb/logs/debug-core.log"}
+{"time":"2024-12-23T10:00:45.025785803Z","level":"INFO","msg":"created new stream","id":"vtjgf7sb"}
+{"time":"2024-12-23T10:00:45.025825825Z","level":"INFO","msg":"stream: started","id":"vtjgf7sb"}
+{"time":"2024-12-23T10:00:45.026081809Z","level":"INFO","msg":"writer: Do: started","stream_id":"vtjgf7sb"}
+{"time":"2024-12-23T10:00:45.026195242Z","level":"INFO","msg":"handler: started","stream_id":"vtjgf7sb"}
+{"time":"2024-12-23T10:00:45.026222757Z","level":"INFO","msg":"sender: started","stream_id":"vtjgf7sb"}
+{"time":"2024-12-23T10:00:45.301089295Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-23T10:00:46.4661734Z","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2024-12-23T10:00:46.678921748Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-23T10:01:37.731666775Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-23T10:01:37.77329197Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-23T10:04:15.169428769Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-23T10:04:15.174430864Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-23T10:04:22.608773831Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-23T10:04:22.743587109Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-23T10:04:27.956558137Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-23T10:04:27.997716428Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-23T10:04:30.717218515Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-23T10:04:31.508154051Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-23T10:04:54.644513641Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-23T10:04:54.796316311Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-23T10:04:54.797216001Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-23T10:04:55.798937329Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact titanic-random-forest-model","runtime_seconds":1.006756058,"subtasks":[{"desc":"random_forest_classifier.pkl","runtime_seconds":0.475368245,"progress":"670.2KB/670.2KB"}]}],"total_operations":1}}
+{"time":"2024-12-23T10:04:56.786910138Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-23T10:04:57.944021438Z","level":"INFO","msg":"stream: closing","id":"vtjgf7sb"}
+{"time":"2024-12-23T10:04:57.944184184Z","level":"INFO","msg":"handler: closed","stream_id":"vtjgf7sb"}
+{"time":"2024-12-23T10:04:57.944308252Z","level":"INFO","msg":"writer: Close: closed","stream_id":"vtjgf7sb"}
+{"time":"2024-12-23T10:04:57.944378222Z","level":"INFO","msg":"sender: closed","stream_id":"vtjgf7sb"}
+{"time":"2024-12-23T10:04:57.944745477Z","level":"INFO","msg":"stream: closed","id":"vtjgf7sb"}
