@@ -1,4 +1,4 @@
-Anaconda3-2022.05-Linux-x86.sh
+Anaconda3-2022.05-Linux-x86_64.sh
 
 # Ignore Jupyter Notebook checkpoints folder
 .ipynb_checkpoints/
@@ -9,6 +9,11 @@ docker-compose-linux-x86_64
 01/
 
 01/.ipynb_checkpoints/
- 9b32cd2ed9146b7699dfcf0d38f536fcca47aaac
+9b32cd2ed9146b7699dfcf0d38f536fcca47aaac
 
  wandb/
+Anaconda3-2022.05-Linux-x86_64.sh
+.ipynb_checkpoints/
+docker-compose
+docker-compose-linux-x86_64
+01/
